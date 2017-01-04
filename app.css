@@ -1,7 +1,7 @@
 body {
 	background: url(images/xuliyvibyic-jonas-vincent.jpg);
 	background-size: cover; /* Makes the image small possible to cover width and height*/
-	background-position: center;
+	background-position: center; /* centers the image*/
 	font-family: Lato, Georgia, Sans-Serif;
 	color: white;
 }
